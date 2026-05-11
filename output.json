@@ -1,0 +1,15 @@
+{
+   "name": "Tus Series",
+   "short_name": "TusSeries",
+   "description": "Seguimiento personal de series y películas",
+   "start_url": "./index.html",
+   "display": "standalone",
+   "background_color": "#0f0f1a",
+   "theme_color": "#e94560",
+   "orientation": "portrait-primary",
+   "icons": {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+   }
+}
